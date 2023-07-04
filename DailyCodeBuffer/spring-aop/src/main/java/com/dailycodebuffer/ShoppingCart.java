@@ -10,7 +10,11 @@ public class ShoppingCart {
         // Logging
         // Authentication & Authorization
         // Sanitize Data
-        System.out.println("Checkout method is called from " + this.getClass().getName());
+        System.out.println("checkout() method is called from " + this.getClass().getName());
+    }
+
+    public void checkout(String string, String string2) {
+        System.out.println("Checkout method is called with parameter from " + this.getClass().getName());
     }
 
 }
