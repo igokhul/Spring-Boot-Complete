@@ -1,11 +1,11 @@
 # My Personal Spring Framework Progress Tracker
 ## Spring
 - [x] Why Spring Framework?
-- [ ] Features and Advantages of Spring Framework
-- [ ] Spring Bean Lifecycle
-- [ ] Dependency Injection
-- [ ] Different ways to configure Spring application
-- [ ] What is Aspect Oriented Programming (AOP)?
+- [x] Features and Advantages of Spring Framework
+- [x] Spring Bean Lifecycle
+- [x] Dependency Injection
+- [x] Different ways to configure Spring application
+- [x] What is Aspect Oriented Programming (AOP)?
 - [ ] Understanding AOP with Complete Example implementation
 - [ ] What is Spring Boot?
 - [ ] Advantages of Spring Boot
